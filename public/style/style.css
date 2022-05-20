@@ -1,0 +1,24 @@
+.cuerpo
+{
+    width: 100%;
+    height: 100vh;
+    background: rgb(174,156,226);
+    background: linear-gradient(90deg, rgba(174, 156, 226, 0.6) 0%, rgba(245, 245, 245, 1) 50%, rgba(255, 106, 92, 0.4) 100%);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.padre
+{
+    width: 50%;
+    height: 50%;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
