@@ -1,0 +1,31 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+	<title>New Project</title>
+	<defs>
+		<linearGradient id="g1" x1="1035.2" y1="700" x2="224.8" y2="20" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset=".5" stop-color="#ae9ce2" stop-opacity=".1"/>
+			<stop offset=".5" stop-color="#ae9ce2" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity=".1"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: #29233d } 
+		.s2 { fill: #ae9ce2 } 
+	</style>
+	<path id="Layer 1" class="s0" d="m120 360c0-340 540-340 540-340 0 0 480 0 480 340 0 340-480 340-480 340 0 0-540 0-540-340zm538-480"/>
+	<path id="Start" class="s1" d="m340 240h20v20l-100 100 100 100v20h-20l-120-120z"/>
+	<path id="End" class="s1" d="m920.2 479.1h-20l-0.1-20 99.9-100.1-100.1-99.9-0.1-20h20l120.2 119.8zm-49.7-273.5l20.1-18.5 9.4 24.4-60 303.3-19 18.7-11.4-24.8z"/>
+	<path id="Light Bottom" class="s2" d="m460 580h260l20 15-20 15h-260l-20-15"/>
+	<path id="Light Middle" class="s2" d="m460 345h260l20 15-20 15h-260l-20-15"/>
+	<path id="Light Top" class="s2" d="m460 110h260l20 15-20 15h-260l-20-15"/>
+	<path id="Dark Bottom" class="s1" d="m460 585h260l20 9.5-20 9.5h-260l-20-9.5"/>
+	<path id="Dark Middle" class="s1" d="m460 350h260l20 9.5-20 9.5h-260l-20-9.5"/>
+	<path id="Dark Top" class="s1" d="m460 115h260l20 10-20 10h-260l-20-10"/>
+	<path id="Light Bottom Left" class="s2" d="m410 565.7l0.6-186.4 14.8-14.3 14.8 14.3-0.6 186.4-14.8 14.3"/>
+	<path id="Light Bottom Right" class="s2" d="m739.8 565.7l0.6-186.4 14.8-14.3 14.8 14.3-0.6 186.4-14.8 14.3"/>
+	<path id="Light Top Right" class="s2" d="m739.8 340.7l0.6-186.4 14.8-14.3 14.8 14.3-0.6 186.4-14.8 14.3"/>
+	<path id="Light Top Left" class="s2" d="m410 340.7l0.6-186.4 14.8-14.3 14.8 14.3-0.6 186.4-14.8 14.3"/>
+	<path id="Dark Bottom Right" class="s1" d="m764 380.3l-0.2 185.4-9.4 14.3-9.4-14.3 0.2-185.4 9.4-14.3"/>
+	<path id="Dark Top Left" class="s1" d="m435 154.2l-0.2 185.1-9.4 14.2-9.4-14.2 0.2-185.1 9.4-14.2"/>
+</svg>
